@@ -15,6 +15,7 @@ HOW TO DOWNLOAD?:
 You can view the souce code by clicking on "PyPassGenerator.py", or go to the "Releases" tab on the right of the screen to download the compiled version, which will work without Python installed, whereas "PyPassGenerator.py" WILL require Python
 
 ONCE YOU HAVE THE FILE:
+
 Slide the slider to get your desired password length, then choose a strength for the generation. The generation is as follows:
 
 - Low: Lowercase Letters and Numbers
