@@ -25,3 +25,12 @@ Slide the slider to get your desired password length, then choose a strength for
 Once you have set the strength and length of you password, click "Generate Password" and your password will show. You can copy the password to your clipboard by pressing the "Copy Password to Clipboard" button, then pasting it into your desired location with ctrl + V
 
 
+# VERSION 2.0 IS IN DEVELOPMENT
+
+This new version will have a lot more generation options for creating passwords. I am still in the idea and building phase of version 2.0, but will include a lot more features.
+
+Some features I want to add to 2.0:
+
+- New password generation algorithm. This will be a toggle-able option to swap from the 1.0 method or the 2.0 method. The 2.0 method gets a random word between 5 and 8 characters, inserts a random symbol, and then a random 3-5 digit number. This will make passwords a lot easier to remember!
+
+MORE FEATURES ARE COMING SOON!
